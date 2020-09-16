@@ -1,0 +1,21 @@
+[logging]
+fileLog = log.txt
+logEnable = 1
+
+
+[database]
+host=localhost
+port=13306
+user=stats
+pass=
+name=stats
+
+[databased]
+host=localhost
+port=13307
+user=stats
+pass=
+name=stats
+
+[pk]
+users=user_id

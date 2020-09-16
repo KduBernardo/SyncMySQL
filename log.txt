@@ -1,0 +1,12 @@
+INFO:root:connecting in database 1 ...
+INFO:root:Connected to MySQL Server version 5.6.30
+INFO:root:You're connected to database: stats
+INFO:root:connecting in database 1 ...
+INFO:root:Connected to MySQL Server version 5.6.30
+INFO:root:You're connected to database: stats
+INFO:root:Connected to MySQL Server version 5.6.30
+INFO:root:You're connected to database: stats
+INFO:root:['success', 1]
+INFO:root:Connected to MySQL Server version 5.6.30
+INFO:root:You're connected to database: stats
+INFO:root:['success', 1]
